@@ -1,0 +1,130 @@
+A   : Aspen, cottonwood or poplar
+AC  : Poplar
+ACB : Balsam poplar
+ACT : Black cottonwood
+AD  : Southern cottonwood
+AT  : Trembling aspen
+AX  : Hybrid poplars
+B   : Fir(balsam)
+BA  : Amabilis fir
+BB  : Balsam fir
+BC  : White fir
+BG  : Grand fir
+BL  : Subalpine fir
+BM  : Shasta red fir
+BP  : Noble fir
+C   : Cedar
+CW  : Western redcedar
+D   : Alder
+DG  : Green/Sitka alder
+DM  : Mountain alder
+DR  : Red alder
+E   : Birch
+EA  : Alaska paper birch
+EB  : Scrub birch
+EP  : Paper birch
+ES  : Silver birch
+EW  : Water birch
+EX  : Birch hybrid
+EXP : Alaska x paper birch hybrid
+EXW : Water x paper birch
+F   : Douglas-fir
+FD  : Douglas-fir
+FDC : Coastal Douglas-fir
+FDI : Interior Douglas-fir
+G   : Dogwood
+GP  : Pacific dogwood
+GR  : Red-osier dogwood
+H   : Hemlock
+HM  : Mountain hemlock
+HW  : Western hemlock
+HX  : Hemlock hybrid
+HXM : Mountain x western hemlock hybrid
+J   : Juniper
+JD  : Common juniper
+JH  : Creeping juniper
+JR  : Rocky Mtn. juniper
+K   : Cascara
+KC  : Cascara
+L   : Larch
+LA  : Alpine larch
+LD  : Dahurian larch
+LS  : Siberian larch
+LT  : Tamarack
+LW  : Western larch
+MB  : Bigleaf maple
+ME  : Box elder
+MN  : Norway maple
+MR  : Douglas maple
+MS  : Sycamore maple
+MV  : Vine maple
+OA  : Incense-Cedar
+OB  : Giant sequoia
+OC  : Coast redwood
+OD  : European mountain-ash
+OE  : Siberian elm
+OF  : Common pear
+OG  : Oregon ash
+OH  : White ash
+OI  : Shagbark hickory
+P   : Pine
+PA  : Whitebark pine
+PF  : Limber pine
+PJ  : Jack pine
+PL  : Lodgepole pine
+PLC : Shore pine
+PLI : Lodgepole pine
+PM  : Monterey pine
+PR  : Red pine
+PS  : Sugar pine
+PW  : Western white pine
+PX  : Pine hybrid
+PXJ : Lodgepole x jack pine hybrid
+PY  : Ponderosa pine
+Q   : Oak
+QE  : English oak
+QG  : Garry oak
+QW  : White oak
+R   : Arbutus
+RA  : Arbutus menziesii
+S   : Spruce
+SA  : Norway spruce (code replaced by Sn)
+SB  : Black spruce
+SE  : Engelmann spruce
+SN  : Norway spruce
+SS  : Sitka spruce
+SW  : White spruce
+SX  : Spruce hybrid
+SXB : White x black spruce
+SXE : Engelmann x sitka spruce
+SXL : Sitka x white
+SXS : Sitka x unknown hybrid
+SXW : Engelmann x white
+SXX : White x engelmann x sitka spruce
+T   : Yew
+TW  : Western yew
+U   : Apple
+UA  : Apple
+UP  : Pacific crab apple
+V   : Cherry
+VB  : Bitter cherry
+VP  : Pin cherry
+VS  : Sweet cherry
+VV  : Choke cherry
+VW  : Choke cherry (code replaced by Vv)
+W   : Willow
+WA  : Peachleaf willow
+WB  : Bebb 's willow
+WD  : Pussy willow
+WP  : Pacific willow
+WS  : Scoulers willow
+WT  : Sitka willow
+X   : Unknown
+XC  : Unknown conifer
+XH  : Unknown hardwood
+Y   : Cypress
+YC  : Yellow-Cedar
+YP  : Port Orford-cedar
+Z   : Other tree, not on list
+ZC  : Other conifer
+ZH  : Other hardwood

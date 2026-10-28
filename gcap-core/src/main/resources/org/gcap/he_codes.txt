@@ -1,0 +1,3 @@
+HE : Herb - herb polygon with no distinction between forbs and graminoids
+HF : Herb - Forbs - herb polygon with forbs greater than 50% of the herb cover
+HG : Herb - Graminoids - herb polygon with graminoids greater than 50% of the herb cover

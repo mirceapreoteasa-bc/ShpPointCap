@@ -1,0 +1,25 @@
+PN : Snow Cover - snow or ice not part of a glacier found during summer months on the landscape
+BR : Bedrock - unfragmented, consolidated rock contiguous with the underlying material
+BI : Burned - Land with recent burning; vegetation with less than 5% crown cover at description time
+MZ : Rubbly Mine Spoils - discarded overburden or waste rock moved to extract ore during mining
+TA : Talus - rock fragments of any size accumulated on or at the foot of slopes from successive rock falls
+BE : Beach - sorted sediments reworked by wave action at the edge of freshwater or saltwater bodies
+BU : Burned Area - land with recent burning; vegetation with less than 5% crown cover at description time
+CB : Cutbank - part of a road corridor created upslope of the road surface, created by excavation into the hillside
+ES : Exposed Soil - exposed soil not covered by other categories, including disturbances such as mud slides, debris torrents, avalanches, or pipeline rights-of-way where vegetation cover is less than 5%
+GP : Gravel Pit - area exposed through the removal of sand and gravel
+LL : Landing - compacted area adjacent to a road used for sorting and loading logs
+LS : Pond or Lake Sediments - exposed sediments related to dried lakes or ponds
+MI : Open Pit Mine - exposed area used to extract ore during a mining operation
+MN : Moraine - area of debris transported and deposited by a glacier
+MU : Mudflat - flat plane-like areas dominated by fine-textured sediments, associated with fresh or estuarine water bodies
+RM : Reservoir Margin - land exposed by a drained or fluctuating reservoir above normal water levels
+RN : Railway Surface - a roadbed with fixed rails, which may contain single or multiple rail lines
+RZ : Road Surface - an area cleared and compacted for transporting goods and services by vehicles
+RS : River Sediments - silt, sand, and gravel bars associated with former river channels and present river edges
+TZ : Tailings - area containing solid waste material produced in the mining and milling of ore
+UC : Utility Corridor - land perpetually cleared and occupied by pipelines or transmission lines
+UR : Urban - buildings and associated developments forming a near-continuous coverage
+LA : Lake - a naturally occurring static body of water with the boundary at the natural high-water mark
+RE : Reservoir - an artificial basin affected by impoundment behind a man-made structure such as a dam or dike
+RI : River/Stream - a watercourse formed when water flows between continuous, definable banks

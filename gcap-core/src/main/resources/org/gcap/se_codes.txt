@@ -1,0 +1,10 @@
+C : Cone - a cone, or segment of a cone, with a relatively smooth slope gradient greater than 15 degrees (>25%)
+D : Depression - circular or irregular area of lower elevation than the surrounding terrain, greater than 2 m deep; examples include kettle holes and karst depressions
+F : Fan - a smooth segment of a cone with a slope gradient of up to 15 degrees (25%), typically applied to fluvial or alluvial fans
+H : Hummock(s) - steep-sided hillocks and hollows with slopes of 15 to 35 degrees on unconsolidated materials and 15 to 90 degrees on bedrock; slopes chaotic/dissected/rounded, local relief greater than 1 m; differentiated from undulating on slope angle
+M : Rolling - elongated hillock(s) with slopes dominantly between 3 and 15 degrees and local relief greater than 1 m; an assemblage of parallel or sub-parallel linear forms with subdued relief, may occur in level or sloping meso slope positions
+N : None of these - no apparent surface expression features present
+P : Plain - a level or gently sloping unidirectional surface with gradients up to 3 degrees (5%); local irregularities generally less than 1 m relief; commonly applied to floodplains, organic deposits, lacustrine/marine plains, and level portions of terraces and deltas
+R : Ridge(s) - elongated, parallel or sub-parallel hillocks/ridges with slopes predominantly 15-35 degrees on unconsolidated materials and 15-90 degrees on bedrock; local relief greater than 1 m; possible locations include drumlinized till plains, eskers and ridged bedrock
+T : Terrace(s) - step-like topography where each step consists of a scarp face and a horizontal or gently inclined surface above it; applied to both the scarp and the flat surface
+U : Undulating - gently sloping hillocks and hollows with slopes up to 15 degrees and local relief greater than 1 m; slopes non-linear, rounded or irregular in profile

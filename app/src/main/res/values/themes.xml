@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+      Light on every device.
+
+      DayNight followed each handset's own light/dark setting, so the same screen came up
+      white on one phone and black on the next. On the dark one the grey caption text
+      (#666666 on black) was close to unreadable, which is the worst place for it: these
+      captions are the only thing naming each control.
+    -->
+    <style name="Theme.ForestPointCollector" parent="Theme.Material3.Light" />
+</resources>

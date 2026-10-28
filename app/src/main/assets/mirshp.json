@@ -1,0 +1,204 @@
+{
+ "layers": [
+  {
+   "name": "XGV_MP",
+   "visible": true,
+   "editable": true,
+   "symbol": "triangle",
+   "color": "orange",
+   "size": 2.0,
+   "label": "GCALL_ID",
+   "labelSize": 7.0
+  },
+  {
+   "name": "XGV_CL",
+   "visible": false,
+   "editable": false,
+   "symbol": "triangle",
+   "color": "blue",
+   "size": 2.0,
+   "label": "GCALL_ID",
+   "labelSize": 7.0
+  },
+  {
+   "name": "XGV_EB",
+   "visible": false,
+   "editable": false,
+   "symbol": "triangle",
+   "color": "green",
+   "size": 2.0,
+   "label": "GCALL_ID",
+   "labelSize": 7.0
+  },
+  {
+   "name": "XGV_HS",
+   "visible": false,
+   "editable": false,
+   "symbol": "triangle",
+   "color": "violet",
+   "size": 2.0,
+   "label": "GCALL_ID",
+   "labelSize": 7.0
+  },
+  {
+   "name": "Ground_Call",
+   "visible": true,
+   "editable": false,
+   "symbol": "circle",
+   "color": "red",
+   "size": 2.0,
+   "label": "Call_Num",
+   "labelSize": 6.0
+  },
+  {
+   "name": "Access",
+   "visible": true,
+   "editable": false,
+   "symbol": "single line",
+   "color": "brown",
+   "size": 0.5,
+   "label": "",
+   "labelSize": ""
+  },
+  {
+   "name": "Air_Calls..",
+   "visible": false,
+   "editable": false,
+   "symbol": "circle",
+   "color": "green",
+   "size": 2.0,
+   "label": "",
+   "labelSize": ""
+  },
+  {
+   "name": "roads",
+   "visible": true,
+   "editable": false,
+   "symbol": "single line",
+   "color": "orange",
+   "size": 0.2,
+   "label": "",
+   "labelSize": ""
+  },
+  {
+   "name": "Transect",
+   "visible": true,
+   "editable": false,
+   "symbol": "single line",
+   "color": "violet",
+   "size": 0.2,
+   "label": "",
+   "labelSize": ""
+  },
+  {
+   "name": "track",
+   "visible": true,
+   "editable": true,
+   "symbol": "dash",
+   "color": "red",
+   "size": 0.2,
+   "label": "",
+   "labelSize": ""
+  },
+  {
+   "name": "Flight_Path",
+   "visible": false,
+   "editable": false,
+   "symbol": "doted line",
+   "color": "yellow",
+   "size": 0.4,
+   "label": "",
+   "labelSize": ""
+  },
+  {
+   "name": "grid",
+   "visible": false,
+   "editable": false,
+   "symbol": "no fill",
+   "color": "green border",
+   "size": 0.6,
+   "label": "",
+   "labelSize": ""
+  },
+  {
+   "name": "rivers",
+   "visible": false,
+   "editable": false,
+   "symbol": "simple fill",
+   "color": "blue",
+   "size": "",
+   "label": "",
+   "labelSize": ""
+  },
+  {
+   "name": "landings",
+   "visible": false,
+   "editable": false,
+   "symbol": "square",
+   "color": "violet",
+   "size": 2.0,
+   "label": "",
+   "labelSize": ""
+  },
+  {
+   "name": "POINTS",
+   "visible": true,
+   "editable": true,
+   "symbol": "square",
+   "color": "black",
+   "size": 2.0,
+   "label": "",
+   "labelSize": ""
+  },
+  {
+   "name": "no_work",
+   "visible": true,
+   "editable": false,
+   "symbol": "Hashed /",
+   "color": "red",
+   "size": 0.2,
+   "label": "",
+   "labelSize": ""
+  },
+  {
+   "name": "results",
+   "visible": true,
+   "editable": false,
+   "symbol": "simple fill",
+   "color": "pink",
+   "size": 0.15,
+   "label": "DISTURBA_1",
+   "labelSize": 4.0
+  },
+  {
+   "name": "fire",
+   "visible": true,
+   "editable": false,
+   "symbol": "Hashed /",
+   "color": "yellow",
+   "size": 0.1,
+   "label": "FIRE_YEAR",
+   "labelSize": 4.0
+  },
+  {
+   "name": "lakes",
+   "visible": false,
+   "editable": false,
+   "symbol": "Hashed /",
+   "color": "blue",
+   "size": 0.2,
+   "label": "",
+   "labelSize": ""
+  },
+  {
+   "name": "prov_parks",
+   "visible": false,
+   "editable": false,
+   "symbol": "Hashed \\",
+   "color": "green",
+   "size": 0.1,
+   "label": "",
+   "labelSize": ""
+  }
+ ]
+}

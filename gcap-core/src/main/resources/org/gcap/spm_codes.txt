@@ -1,0 +1,7 @@
+C : Crest - the generally convex uppermost portion of a hill (meso scale); usually convex in all directions and generally has no distinct aspect; "crest" may also be applied to a ridge
+U : Upper Slope - the generally convex, upper portion of the slope of a hill (meso scale) immediately below the crest; convex surface profile with a specific aspect
+M : Middle Slope - the area of the slope of a hill between the upper and lower slope where the slope profile is not generally concave or convex; straight or somewhat sigmoid surface profile with a specific aspect
+L : Lower Slope - the area toward the base of the slope of the hill; generally concave surface profile with a specific aspect
+T : Toe - the area differentiated from the lower slope by an abrupt decrease in slope gradient; often characterized by seepage
+D : Depression - any area that is concave in all directions; generally at the foot of a meso scale hill or in a generally level area
+F : Flat (Level) - any level area not immediately adjacent to a meso scale hill (or toe); surface profile generally horizontal with no significant aspect

@@ -7,7 +7,7 @@ import java.io.File
 class ByteFidelityTest {
     @Test
     fun diffAll() {
-        for (f in File("/home/mircea/GroundCallsCapture511/Groundcalls").listFiles { it.name.endsWith(".dat") }!!.sortedBy { it.name }) {
+        for (f in File(System.getProperty("user.home"), "GroundCallsCapture511/Groundcalls").listFiles { it.name.endsWith(".dat") }!!.sortedBy { it.name }) {
             val original = f.readBytes()
             val gc = DatParser.parseText(original.toString(Charsets.ISO_8859_1))
             val rend = DatWriter.render(gc).toByteArray(Charsets.ISO_8859_1)

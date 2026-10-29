@@ -281,4 +281,4 @@ Spec: the three layout sheets (`settings_1.ods`, `layer_settings.ods`,
 # → app/build/outputs/apk/debug/app-debug.apk
 ```
 
-SDK path is in `local.properties` (`/home/mircea/Android/Sdk`).
+SDK path is in `local.properties` (`~/Android/Sdk`).

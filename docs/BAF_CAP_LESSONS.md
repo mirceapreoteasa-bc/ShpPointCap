@@ -3,11 +3,11 @@
 Written 2026-09-28, after the Forest Point Collector engagement. This is a
 **note, not a work plan** — nothing here has been changed in BAF_cap yet.
 
-Source of the lessons: `/home/mircea/projects/ShpPointCap`, which is itself a
+Source of the lessons: `~/projects/ShpPointCap`, which is itself a
 fork of BAF_cap, so the affected code is largely the same code. Most of what
 follows is therefore applicable directly.
 
-`/home/mircea/projects/GCapAndroid` is the BAF_cap tree.
+`~/projects/GCapAndroid` is the BAF_cap tree.
 
 ---
 

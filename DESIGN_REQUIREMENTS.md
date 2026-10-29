@@ -4,7 +4,7 @@ Consolidated 2026-09-28 from the whole engagement. This is the authoritative
 record of **what was asked for and why**, as distinct from `README.md`, which is
 a chronological build/dev log.
 
-Project: `/home/mircea/projects/ShpPointCap`
+Project: `~/projects/ShpPointCap`
 Package: `org.shppointcap.app` · Modules: `:app`, `:gcap-core`
 Current builds (2026-09-28):
 - **`shp-capq11.apk`** — standard, Android 8+ (`minSdk 26` / `target 34`)
@@ -259,11 +259,11 @@ emulator, so this is the only way to diagnose them.
 ## 10. Build / release
 
 ```bash
-ANDROID_SDK_ROOT=/home/mircea/Android/Sdk ./gradlew :app:assembleDebug :app:testDebugUnitTest :gcap-core:test
-ANDROID_SDK_ROOT=/home/mircea/Android/Sdk ./gradlew :app:assembleRelease
+ANDROID_SDK_ROOT=~/Android/Sdk ./gradlew :app:assembleDebug :app:testDebugUnitTest :gcap-core:test
+ANDROID_SDK_ROOT=~/Android/Sdk ./gradlew :app:assembleRelease
 # then sign + copy:
-cp app/build/outputs/apk/release/app-release.apk /home/mircea/Forest_Point_Collector/shp-capqN.apk
-/home/mircea/Android/Sdk/build-tools/*/apksigner verify <apk>
+cp app/build/outputs/apk/release/app-release.apk ~/Forest_Point_Collector/shp-capqN.apk
+~/Android/Sdk/build-tools/*/apksigner verify <apk>
 ```
 
 Release key: `shp-cap-release.keystore` (all q-vN builds share it, so installs

@@ -7,7 +7,7 @@ This app is the reference for the MOB and track-recording behaviour that
 Forest Navigator now mirrors, so it is the likeliest place for the CRS handling
 to already be right — worth checking before copying anything.
 
-Source: `/home/mircea/projects/ForestNavigator`, file
+Source: `~/projects/ForestNavigator`, file
 `gcap-core/src/main/kotlin/org/gcap/core/nav/ProjectScan.kt`, with tests in
 `ProjectScanTest.kt`. Read those before implementing; the logic is portable and
 has no Android dependencies.
